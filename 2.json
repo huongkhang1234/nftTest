@@ -1,7 +1,7 @@
 {
 	"name" : "Card 2",
 	"description" : "create card 2",
-	"image url" : "",
+	"image url" : "https://github.com/huongkhang1234/nftTest/blob/main/card2.png",
 	"attributes" : [
 		{
 			"trait type" : "class",
